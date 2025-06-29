@@ -48,3 +48,44 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+
+
+
+# 🤟 Traduction Gestuelle - Application Mobile
+
+Application mobile de traduction en langue des signes française (LSF) développée avec Expo et React Native.
+
+## ✨ Fonctionnalités
+
+- 🔐 **Authentification simulée** avec comptes de test
+- 🤟 **Traduction texte → LSF** avec animations
+- 📱 **Interface moderne** avec mode sombre/clair
+- 📝 **Historique local** des 5 dernières traductions
+- 🎯 **Détection automatique** de langue (FR/EN)
+- ✨ **Animations fluides** et micro-interactions
+- 📲 **Design responsive** optimisé mobile
+
+## 🛠 Technologies
+
+- **Expo SDK 50+** - Framework React Native
+- **Expo Router** - Navigation file-based
+- **TypeScript** - Typage statique
+- **React Native Reanimated** - Animations performantes
+- **AsyncStorage** - Persistance locale
+- **Context API** - Gestion d'état globale
+
+## 🚀 Installation
+
+```bash
+# Cloner le projet
+git clone https://github.com/[username]/traduction-gestuelle.git
+cd traduction-gestuelle
+
+# Installer les dépendances
+npm install
+
+# Démarrer en développement
+npx expo start
