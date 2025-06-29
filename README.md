@@ -81,11 +81,14 @@ Application mobile de traduction en langue des signes française (LSF) développ
 
 ```bash
 # Cloner le projet
-git clone https://github.com/[username]/traduction-gestuelle.git
-cd traduction-gestuelle
+git clone https://github.com/DohouFawase/testappmobile
+cd testappmobile
 
 # Installer les dépendances
 npm install
 
 # Démarrer en développement
 npx expo start
+ #For loginss
+{ id: '1', email: 'test@test.com', password: 'password', name: 'Utilisateur Test' },
+  { id: '2', email: 'demo@demo.com', password: 'demo123', name: 'Démo User' },
